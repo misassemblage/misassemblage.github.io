@@ -66,6 +66,10 @@ section {
     text-align: center; /* Center the text within sections */
 }
 
+blockquote {
+	align: center;
+}
+
 h1, h2 {
     text-align: center;
 }
